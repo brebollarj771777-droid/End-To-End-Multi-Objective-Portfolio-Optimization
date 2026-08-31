@@ -21,8 +21,8 @@ End-To-End Multi-Objective Portfolio Optimization System combining GRU (Gated-Re
 | **Min CVaR** | Lowest Efficiency (-0.01) | Lowest Tail Risk (1.554% of Invested Capital) | Capital Preservation |
 | **Knee** | Optimal Trade-0ff (0.22) | Optimized Risk (1.775% of Invested Capital) | Balanced Multi-Asset Mix |
 
-**Highest Usage Assets:** GLD, TLT. (Low Volatility Assets)
-**Lowest Usage Assetes:** QQQ, BTC-USD. (High Volatility Assets)
+- **Highest Usage Assets:** GLD, TLT. (Low Volatility Assets)
+- **Lowest Usage Assetes:** QQQ, BTC-USD. (High Volatility Assets)
 
 ## Technology Stack 
 
