@@ -41,7 +41,7 @@ End-To-End Multi-Objective Portfolio Optimization System combining GRU (Gated-Re
 1. **Neural Network  Signals & Data Fetching:** Historical asset pricing and predictive signals generated from the GRU Quantitative Trading System pipeline are imported into the portfolio optimization module.
 2. **NSGA-II Evolutionary Optimization:** Execution of the multi-objective genetic algorithm to solve weight allocation constraints ($\sum w_i = 1.0$, $0 \le w_i \le 0.35$) across return efficiency and downside tail-risk metrics.
 ```bash
-   python 03_Neural_Network_Pipeline/trading_system_neural_network_pipeline.py
+   python 03_Multi_Objective_Portfolio_Pipeline/multi_objective_portfolio_pipeline.py
  ```
 3. **Relational Database Storage:** Population of the SQLite database (Optimal_Pymoo_Portfolios.db) exporting the normalized fact and dimension tables.
 4. **Power BI Dashboard Deployment:** Integration with Power BI via DirectQuery / Import to execute dynamic lot sizing, real-time risk profile evaluation, and visual trade-off analysis.
