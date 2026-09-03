@@ -45,3 +45,7 @@ End-To-End Multi-Objective Portfolio Optimization System combining GRU (Gated-Re
  ```
 3. **Relational Database Storage:** Population of the SQLite database (Optimal_Pymoo_Portfolios.db) exporting the normalized fact and dimension tables.
 4. **Power BI Dashboard Deployment:** Integration with Power BI via DirectQuery / Import to execute dynamic lot sizing, real-time risk profile evaluation, and visual trade-off analysis.
+
+## Demo Video
+
+[![Demo Video](04_Power_BI_Dashboard/MPD_Dashboard_Preview.png)](https://github.com/brebollarj771777-droid/End-To-End-Multi-Objective-Portfolio-Optimization/raw/main/Multi_Objective_Portfolio.mp4)
