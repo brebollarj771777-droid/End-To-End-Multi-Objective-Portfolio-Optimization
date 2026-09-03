@@ -48,4 +48,4 @@ End-To-End Multi-Objective Portfolio Optimization System combining GRU (Gated-Re
 
 ## Demo Video
 
-[![Demo Video](04_Power_BI_Dashboard/MPD_Dashboard_Preview.png)](https://github.com/brebollarj771777-droid/End-To-End-Multi-Objective-Portfolio-Optimization/raw/main/Multi_Objective_Portfolio.mp4)
+https://github.com/user-attachments/assets/b31c9750-a020-411c-9c49-fb131be9adb1
